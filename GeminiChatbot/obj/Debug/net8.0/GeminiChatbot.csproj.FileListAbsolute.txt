@@ -1,0 +1,17 @@
+/Users/orkunalpalim/Documents/FolYazilim/GeminiChatbot/GeminiChatbot/bin/Debug/net8.0/GeminiChatbot
+/Users/orkunalpalim/Documents/FolYazilim/GeminiChatbot/GeminiChatbot/bin/Debug/net8.0/GeminiChatbot.deps.json
+/Users/orkunalpalim/Documents/FolYazilim/GeminiChatbot/GeminiChatbot/bin/Debug/net8.0/GeminiChatbot.runtimeconfig.json
+/Users/orkunalpalim/Documents/FolYazilim/GeminiChatbot/GeminiChatbot/bin/Debug/net8.0/GeminiChatbot.dll
+/Users/orkunalpalim/Documents/FolYazilim/GeminiChatbot/GeminiChatbot/bin/Debug/net8.0/GeminiChatbot.pdb
+/Users/orkunalpalim/Documents/FolYazilim/GeminiChatbot/GeminiChatbot/bin/Debug/net8.0/GenerativeAI.dll
+/Users/orkunalpalim/Documents/FolYazilim/GeminiChatbot/GeminiChatbot/obj/Debug/net8.0/GeminiChatbot.csproj.AssemblyReference.cache
+/Users/orkunalpalim/Documents/FolYazilim/GeminiChatbot/GeminiChatbot/obj/Debug/net8.0/GeminiChatbot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orkunalpalim/Documents/FolYazilim/GeminiChatbot/GeminiChatbot/obj/Debug/net8.0/GeminiChatbot.AssemblyInfoInputs.cache
+/Users/orkunalpalim/Documents/FolYazilim/GeminiChatbot/GeminiChatbot/obj/Debug/net8.0/GeminiChatbot.AssemblyInfo.cs
+/Users/orkunalpalim/Documents/FolYazilim/GeminiChatbot/GeminiChatbot/obj/Debug/net8.0/GeminiChatbot.csproj.CoreCompileInputs.cache
+/Users/orkunalpalim/Documents/FolYazilim/GeminiChatbot/GeminiChatbot/obj/Debug/net8.0/GeminiCh.4E88B790.Up2Date
+/Users/orkunalpalim/Documents/FolYazilim/GeminiChatbot/GeminiChatbot/obj/Debug/net8.0/GeminiChatbot.dll
+/Users/orkunalpalim/Documents/FolYazilim/GeminiChatbot/GeminiChatbot/obj/Debug/net8.0/refint/GeminiChatbot.dll
+/Users/orkunalpalim/Documents/FolYazilim/GeminiChatbot/GeminiChatbot/obj/Debug/net8.0/GeminiChatbot.pdb
+/Users/orkunalpalim/Documents/FolYazilim/GeminiChatbot/GeminiChatbot/obj/Debug/net8.0/GeminiChatbot.genruntimeconfig.cache
+/Users/orkunalpalim/Documents/FolYazilim/GeminiChatbot/GeminiChatbot/obj/Debug/net8.0/ref/GeminiChatbot.dll
