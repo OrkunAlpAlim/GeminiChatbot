@@ -15,3 +15,4 @@
 /Users/orkunalpalim/Documents/FolYazilim/GeminiChatbot/GeminiChatbot/obj/Debug/net8.0/GeminiChatbot.pdb
 /Users/orkunalpalim/Documents/FolYazilim/GeminiChatbot/GeminiChatbot/obj/Debug/net8.0/GeminiChatbot.genruntimeconfig.cache
 /Users/orkunalpalim/Documents/FolYazilim/GeminiChatbot/GeminiChatbot/obj/Debug/net8.0/ref/GeminiChatbot.dll
+/Users/orkunalpalim/Documents/FolYazilim/GeminiChatbot/GeminiChatbot/obj/Debug/net8.0/GeminiChatbot.sourcelink.json
